@@ -1,2 +1,2 @@
-# distant_worlds
-a unity game im working on thats 2D
+# Distant Worlds
+A 2D unity game im working
